@@ -1,1 +1,2 @@
-
+# Ubuntu
+actual am not gonna install ubuntu on my pc via dual boot because I have Kali Linux (zsecurity.org custom edition ) installed on my pc  as VM .so I don't want to install Ubuntu now as we can use it for the same tasks in case  if it is that useful tell me to install it so I'll and if it will be helpful in future I'll install that in college so I don't have risks too .so don't take it seriously and decrease my points
