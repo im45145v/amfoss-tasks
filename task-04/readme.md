@@ -8,7 +8,9 @@ so now I want to explain how the thing is
 
 ### syntax errors I faced are :
 1)missing semi-colons;
+
 2)missing braces/brackets ()
+
 3)extra comments //
 
 ### typos:
@@ -16,9 +18,14 @@ so now I want to explain how the thing is
 
 ### logical errors I faced:
 1)unit conversion (1ms=0.01s)
+
 2)arithmetic operations are misplaced
+
 3)correct answers are decremented by 1 or incremented by -1
+
 4)similarly wrong answers was incremented by +23
+
+
 5)start & stop buttons are placed in opposite positions
 
 ## I hope that there are no more errors left in this file and those comment lines are really helpful as u said in the document 
