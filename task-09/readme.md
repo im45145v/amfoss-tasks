@@ -8,5 +8,7 @@ and i liked this ask because i recalled my js basics
 and spammed some friends
 ## working model
 [spam code for telegram](https://github.com/im45145v/amfoss-tasks/blob/main/task-09/spamintg.js)is stored in this file u an run and test it 
+
+
 [spam code for whatsapp](https://github.com/im45145v/amfoss-tasks/blob/main/task-09/spaminwa.js)is stored in this file u an run and test it 
-## so this is the task goand check it and enjy
+## so this is the task goand check it and enjoy
