@@ -2,7 +2,11 @@ import java.util.Scanner;
 public class Main
 {
     public static void main(String[] args) {
-       
+       //If we list all the natural numbers below  that are multiples of  or , we get  and . The sum of these multiples is .
+
+Find the sum of all the multiples of  or  below .
+
+
         int temp = 0;
         int temp2 = 0; 
          System.out.println("enter u r value:");
@@ -19,7 +23,7 @@ public class Main
                 temp2 = temp2 + j;
             }
         }
-
+System.out.println("output is : ");
         System.out.println(temp + temp2);
     }
 }
