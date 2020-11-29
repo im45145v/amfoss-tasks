@@ -1,7 +1,7 @@
 # Introspection
 ## Why must we choose you?
 I love exploring things on the web which created me interest in coding from then I love coding. but due to I'm a hostler I learned only HTML, CSS, and js. but now as it's in my subject I'll learn it up to as far as I can .and if I'm in club then I can assist u and learn many things which will be helpful for me!  I'm socially super awkward. Spending time with different people might help me in various aspects. the thing I want to say is a loop I can't explain very well but I'll be helpful if u choose me 
-### Nerd Today, Boss Tomorrow -my ream boosting slogan
+### Nerd Today, Boss Tomorrow -my dream boosting slogan
 
 ## What is your plan for the next 6 months?
 I selected ai as my course so I'll many things there (more than cse students) and I'll learn as much as I can and I'll help all in the club so it improves my skills
