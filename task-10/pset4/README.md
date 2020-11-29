@@ -1,36 +1,41 @@
-# Recover Instructions
+# Filter (less) Instructions
 
 
 ## tl;dr
-Implement a program that recovers JPEGs from a forensic image, per the below:
+Implement a program that applies filters to BMPs, per the below.
 ```
-$ ./recover card.raw
+$ ./filter -r image.bmp reflected.bmp
 ```
 
 
 ## Specification
-Implement a program called `recover` that recovers JPEGs from a forensic image.
-- Implement your program in a file called `recover.c` in a directory called `recover`.
-- Your program should accept exactly one command-line argument, the name of a forensic image from which to recover JPEGs. + If your program is not executed with exactly one command-line argument, it should remind the user of correct usage, as with `fprintf` (to `stderr`), and `main` should return `1`.
-- If the forensic image cannot be opened for reading, your program should inform the user as much, as with `fprintf` (to `stderr`), and `main` should return `2`.
-- Your program, if it uses `malloc`, must not leak any memory.
+Implement the functions in `helpers.c` such that a user can apply grayscale sepia, reflection, or blur filters to their images.
+- The function `grayscale` should take an image and turn it into a black-and-white version of the same image.
+- The function `sepia` should take an image and turn it into a sepia version of the same image.
+- The `reflect` function should take an image and reflect it horizontally.
+- Finally, the `blur` function should take an image and turn it into a box-blurred version of the same image.
+
+You should not modify any of the function signatures, nor should you modify any other files other than `helpers.c`.
 
 
 ## Usage
-Your program should behave per the examples below. Assumed that the underlined text is what some user has typed.
+Your program should behave per the examples below.
 
 ```
-$ ./recover
-Usage: ./recover image
-$ echo $?
-1
+$ ./filter -g infile.bmp outfile.bmp
 ```
 
 ```
-$ ./recover card.raw
-$ echo $?
-0
+$ ./filter -s infile.bmp outfile.bmp
+```
+
+```
+$ ./filter -r infile.bmp outfile.bmp
+```
+
+```
+$ ./filter -b infile.bmp outfile.bmp
 ```
 
 
-Full instructions available [here](https://docs.cs50.net/2019/x/psets/3/resize/less/resize.html)
+Full instructions available [here](https://cs50.harvard.edu/x/2020/psets/4/filter/less/)
