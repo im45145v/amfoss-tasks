@@ -19,7 +19,7 @@ This is Ashish, fresher at Amrita School of Engineering (CSAI-2020).
 | <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-10">Task-10 </a>| CS50 | COMPLETED |
 | <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-11">Task-11 </a>| Poster Design| completed |
 | <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-12">Task-12 </a>| If maths was fun :P | completed |
-| <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-13">Task-13 </a>| Circuit Design | NOT completed |
+| <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-13">Task-13 </a>| Circuit Design | completed |
 | <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-14">Task-14</a> | Bandit | completed |
 | <a href="https://github.com/im45145v/amfoss-tasks/tree/main/task-15">Task-15</a> | Project Euler | completed |
 
