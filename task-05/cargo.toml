@@ -1,0 +1,10 @@
+[package]
+name = "task-05"
+version = "0.1.0"
+authors = ["45145v <45145v@gmail.com>"]
+edition = "2018"
+[dependencies]
+reqwest = "0.10"
+scraper = "*"
+tokio = { version = "0.2", features = ["full"] }
+csv = "1.1"
