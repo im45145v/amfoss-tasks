@@ -4,4 +4,4 @@ but i dont understand where and how i can do this tasks
 
 now i gotta know how to see them but not full clarity and no time to focus on it 
 
-i'lltry to complete thisif i have time
+AND AT LAST I UNDERSTAND AND COMPLETED ALL 
